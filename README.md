@@ -1,4 +1,6 @@
-Grupo de Pesquisa R.E.G.I.I.M.E.N.T.O.
+<h3> Grupo de Pesquisa R.E.G.I.I.M.E.N.T.O. </h3>
+integrantes: Camila e Henrique
+
 Atua na Ciência Arquivística Computacional, no INTERPARES TRUST AI.
 Data de inclusão desse projeto:fevereiro/2026
 INTERESSE DE ALOCAÇÃO :
