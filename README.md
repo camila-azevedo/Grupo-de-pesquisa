@@ -1,5 +1,6 @@
 <div align="center"> <h3>  Grupo de Pesquisa R.E.G.I.I.M.E.N.T.O.  </h3> </div>  
 Integrantes: Camila e Henrique <br/>
+<br/>
 
 
 __Resumo Negocial__ - O grupo de pesquisa R.E.G.I.I.M.E.N.T.O. (Research Expert Group for
