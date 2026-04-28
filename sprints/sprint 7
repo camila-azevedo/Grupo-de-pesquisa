@@ -11,10 +11,12 @@ SÉTIMA SPRINT
 a. Fazer mapeamento do processo "acessar dashboards com filtro";
 b. Fazer a interface do portal REGIIMENTO;
 c. Revisar funcionalidades propostas;
+d. Criar a tela de integrantes; 
 
 → Objetivo da Sprint: validar artefatos com stakeholders;
 
 → Critérios de definição de feito:
 a. Processo deve conter início, fim e atividades coerentes dentro da pool e das raias adequadas aos atores; 
 b. interface com as cores do grupo de pesquisa, sobre nós, integrantes, área do cadastrado, calendário e banner de avisos; 
-c. Funcionalidades completas e coerentes com o nosso objetivo (no mínimo 4), contendo requisitos funcionais, requisitos de dados e regras de negócio.
+c. Funcionalidades completas e coerentes com o nosso objetivo (no mínimo 4), contendo requisitos funcionais, requisitos de dados e regras de negócio
+d. Cada integrante deve ter foto, nome completo, titulação, áreas de pesquisa, link do currículo lattes, e-mail, cargo; 
